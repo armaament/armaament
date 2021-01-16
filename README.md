@@ -1,6 +1,6 @@
 <p align="center">
   <img
-src="https://media.discordapp.net/attachments/788476349265608734/793996765183213650/2e93ceb15c58480879d348b43f908743.gif" alt="WhoAmI">
+src="https://media.discordapp.net/attachments/798776246250242098/800147214928052244/a_32a6fcdb17181c3b8b110a1d845529c4.gif" alt="WhoAmI">
 </p>
 
 <p align="center">
@@ -21,11 +21,11 @@ Socials etc.
 </p>
 
 <details>
-  <summary>🎸</summary>
+  <summary>⸸</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&show_icons=true&layout=compact&theme=nightowl" alt="fax">
 </details>
 
 <details>
-  <summary>💔</summary>
+  <summary>⸸</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=unwizz&theme=nightowl&show_icons=true" alt="fax">
 </details>
