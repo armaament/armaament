@@ -16,10 +16,12 @@ Socials etc.
    <a href="https://discord.gg/83">83</a>
    .
    <a href="https://steamcommunity.com/id/Discordians">Steam</a>
+   .
+   Youtube Soon..
 </p>
 
 <details>
-  <summary>🎸</summary>💔
+  <summary>🎸</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&show_icons=true&layout=compact&theme=nightowl" alt="fax">
 </details>
 
