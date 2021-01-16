@@ -8,7 +8,7 @@ src="https://media.discordapp.net/attachments/798776246250242098/800147214928052
 <p align="center">
 Socials etc.
 <p align="center">
-   
+   •
    <a href="https://discord.com/users/755217098183016488">Discord</a>
    •
    <a href="https://t.me/unwizz">Telegram</a>
@@ -18,6 +18,7 @@ Socials etc.
    <a href="https://steamcommunity.com/id/Discordians">Steam</a>
    •
    Youtube Soon..
+   •
 </p>
 
 <p align="center">
