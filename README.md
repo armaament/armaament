@@ -4,7 +4,7 @@ src="https://media.discordapp.net/attachments/788476349265608734/793996765183213
 </p>
 
 <p align="center">
-    six 🎸
+    Six
 <p align="center">
 Socials etc.
 <p align="center">
