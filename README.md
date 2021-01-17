@@ -32,5 +32,5 @@ Socials etc.
 
 <details>
   <summary>⸸</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=unwizz&theme=nightowl&show_icons=true" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=dark" alt="fax">
 </details>
