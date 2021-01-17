@@ -22,7 +22,7 @@ Socials etc.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=unwizz&color=blue" alt="blades" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=unwizz&color=ff1500" alt="blades" width="" height="">
 </p>
 
 <details>
