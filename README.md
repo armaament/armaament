@@ -13,7 +13,7 @@ Socials etc.
    •
    <a href="https://t.me/unwizz">Telegram</a>
    •
-   <a href="https://discord.gg/83">83</a>
+   <a href="https://sellix.io/chriz">Sellix</a>
    •
    <a href="https://steamcommunity.com/id/Discordians">Steam</a>
    •
