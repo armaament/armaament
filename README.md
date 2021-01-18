@@ -4,7 +4,7 @@ src="https://media.discordapp.net/attachments/752669802887381033/764158238337138
 </p>
 
 <p align="center">
-    Six
+    Chriz
 <p align="center">
 Socials etc.
 <p align="center">
