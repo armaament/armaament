@@ -1,6 +1,6 @@
 <p align="center">
   <img
-src="https://media.discordapp.net/attachments/766423028459372544/801930521890127912/image0_30.jpg" alt="WhoAmI">
+src="https://media.discordapp.net/attachments/802374717326491668/802522199323705354/image0-9.jpg" alt="WhoAmI">
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@ Socials etc.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=unwizz&color=0039e6" alt="blades" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=unwizz&color=CF8B2D" alt="blades" width="" height="">
 </p>
 
 <details>
   <summary>⸸</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=unwizz&theme=blue" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api?username=unwizz&theme=black" alt="fax">
 </details>
 
 <details>
   <summary>⸸</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&theme=blue" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&theme=black" alt="fax">
 </details>
