@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/1271ae3759683a4a2d753af90938c8912c3fca34
 <p align="center">
 Socials etc.
 <p align="center">
-   
+   ×
    <a href="https://discord.com/users/755217098183016488">Discord</a>
    ×
    <a href="https://t.me/unwizz">Telegram</a>
@@ -18,7 +18,7 @@ Socials etc.
    <a href="https://steamcommunity.com/id/Discordians">Steam</a>
    ×
    Youtube Soon..
-   
+   ×
 </p>
 
 <p align="center">
