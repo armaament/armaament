@@ -22,15 +22,15 @@ Socials etc.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=unwizz&color=red" alt="blades" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=unwizz&color=purple" alt="blades" width="" height="">
 </p>
 
 <details>
   <summary>⸸</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=unwizz&theme=black" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api?username=unwizz&theme=purple" alt="fax">
 </details>
 
 <details>
   <summary>⸸</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&theme=black" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&theme=purple" alt="fax">
 </details>
