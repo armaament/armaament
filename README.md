@@ -4,7 +4,7 @@ src="https://camo.githubusercontent.com/1271ae3759683a4a2d753af90938c8912c3fca34
 </p>
 
 <p align="center">
-    Chriz
+    Azazel / Chriz
 <p align="center">
 Socials etc.
 <p align="center">
@@ -22,7 +22,7 @@ Socials etc.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=unwizz&color=d600ff" alt="blades" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=unwizz&color=black" alt="blades" width="" height="">
 </p>
 
 <details>
