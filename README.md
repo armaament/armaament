@@ -1,6 +1,6 @@
 <p align="center">
   <img
-src="https://media.discordapp.net/attachments/800581199839887380/805649301962227732/bbea50d71706c700f6976f82fa4c360f.png" alt="WhoAmI">
+src="https://media.discordapp.net/attachments/766423028459372544/806296040310439947/AAUvwnhlNdQOJz2p3mdCT0KLbo0K1Idue7Kxb1CPR3u6EQs900-c-k-c0x00ffffff-no-rj.jpeg?width=606&height=606" alt="WhoAmI">
 </p>
 
 <p align="center">
