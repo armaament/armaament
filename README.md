@@ -8,17 +8,17 @@ src="https://media.discordapp.net/attachments/802374717326491668/806296723122421
 <p align="center">
 Socials etc.
 <p align="center">
-   ×
+   -
    <a href="https://discord.com/users/755217098183016488">Discord</a>
-   ×
+   -
    <a href="https://t.me/unwizz">Telegram</a>
-   ×
+   -
    <a href="https://sellix.io/chriz">Sellix</a>
-   ×
+   -
    <a href="https://steamcommunity.com/id/Discordians">Steam</a>
-   ×
+   -
    Youtube Soon..
-   ×
+   -
 </p>
 
 <p align="center">
@@ -37,9 +37,9 @@ Socials etc.
 
 <details>
   <summary>Projects</summary>
-  .
+  -
   ggToken - Token Fucker
-  .
+  -
   Curse - Anti-Nuke
-  .
+  -
 </details>
