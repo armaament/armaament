@@ -17,7 +17,7 @@ Socials etc.
    -
    <a href="https://steamcommunity.com/id/Discordians">Steam</a>
    -
-   Youtube Soon..
+   Youtube Soon
    -
 </p>
 
