@@ -1,6 +1,6 @@
 <p align="center">
   <img
-src="https://media.discordapp.net/attachments/802374717326491668/807272811156340777/image0_86.gif" alt="WhoAmI">
+src="https://media.discordapp.net/attachments/802374717326491668/806296723122421760/image1_5.jpg" alt="WhoAmI">
 </p>
 
 <p align="center">
@@ -26,11 +26,20 @@ Socials etc.
 </p>
 
 <details>
-  <summary>⸸</summary>
+  <summary>Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=unwizz&theme=black" alt="fax">
 </details>
 
 <details>
-  <summary>⸸</summary>
+  <summary>Langs</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&theme=black" alt="fax">
+</details>
+
+<details>
+  <summary>Projects</summary>
+  .
+  ggToken - Token Fucker
+  .
+  Curse - Anti-Nuke
+  .
 </details>
