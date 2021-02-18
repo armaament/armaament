@@ -4,7 +4,7 @@ src="https://media.discordapp.net/attachments/802374717326491668/806296723122421
 </p>
 
 <p align="center">
-    Append
+    chriz
 <p align="center">
 Socials etc.
 <p align="center">
