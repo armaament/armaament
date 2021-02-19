@@ -1,7 +1,4 @@
-<p align="center">
-  <img
-src="https://media.discordapp.net/attachments/802374717326491668/806296723122421760/image1_5.jpg" alt="WhoAmI">
-</p>
+
 
 <p align="center">
     chriz
