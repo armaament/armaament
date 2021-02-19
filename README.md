@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    chriz
+    hi im chriz!
 <p align="center">
 Socials etc.
 <p align="center">
