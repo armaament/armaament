@@ -23,11 +23,11 @@
 </p>
 
 <details>
-  <summary>Stats</summary>
+  <summary>統計</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=unwizz&theme=black" alt="fax">
 </details>
 
 <details>
-  <summary>Langs</summary>
+  <summary>言語</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&theme=black" alt="fax">
 </details>
