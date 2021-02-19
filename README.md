@@ -3,19 +3,19 @@
 <p align="center">
     hi im chriz!
 <p align="center">
-Socials etc.
+ソーシャル
 <p align="center">
-   .
+   –
    <a href="https://discord.com/users/755217098183016488">Discord</a>
-   .
+   –
    <a href="https://t.me/unwizz">Telegram</a>
-   .
+   –
    <a href="https://sellix.io/chriz">Sellix</a>
-   .
+   –
    <a href="https://steamcommunity.com/id/Discordians">Steam</a>
-   .
+   –
    Youtube Soon
-   .
+   –
 </p>
 
 <p align="center">
@@ -30,13 +30,4 @@ Socials etc.
 <details>
   <summary>Langs</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unwizz&theme=black" alt="fax">
-</details>
-
-<details>
-  <summary>Projects</summary>
-  .
-  AntiNuke
-  .
-  Account Fuker
-  .
 </details>
