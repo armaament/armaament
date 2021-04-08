@@ -1,12 +1,12 @@
 
 
 <p align="center">
-    anti
+    **@anti**
 <p align="center">
-bored
+if u need help w smth make a issue
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=unwizz&color=0f0707" alt="blades" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=unwizz&color=red" alt="blades" width="" height="">
 </p>
 
 <details>
