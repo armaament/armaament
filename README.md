@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    **@anti**
+    @anti
 <p align="center">
 if u need help w smth make a issue
 
