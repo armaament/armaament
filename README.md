@@ -1,14 +1,9 @@
 
 
 <p align="center">
-    hi
+    anti
 <p align="center">
 bored
-<p align="center">
-   ﹒
-   <a href="https://discord.com/users/755217098183016488">Discord</a>
-   ﹒
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=unwizz&color=0f0707" alt="blades" width="" height="">
