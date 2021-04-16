@@ -6,15 +6,15 @@
 if u need help w smth make a issue
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=eslit&color=red" alt="blades" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=eslit&color=purple" alt="blades" width="" height="">
 </p>
 
 <details>
   <summary>Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=eslit&theme=dracula" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api?username=eslit&theme=dark" alt="fax">
 </details>
 
 <details>
   <summary>Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslit&theme=dracula" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslit&theme=dark" alt="fax">
 </details>
