@@ -6,7 +6,7 @@
 if u need help w smth make a issue
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=eslit&color=ad14ff" alt="blades" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=eslit&color=black" alt="blades" width="" height="">
 </p>
 
 <details>
