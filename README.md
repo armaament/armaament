@@ -1,20 +1,22 @@
 
-
+### 👋
 <p align="center">
-    @anti
-<p align="center">
-if u need help w smth make a issue
-
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-4/755217098183016488.png" alt="blades" width="" height="">
+    <img src="https://komarev.com/ghpvc/?username=eslit&color=lightgrey" alt="fax" width="" height="">
+    <a href="https://discord.com/users/843665233084022794">discord</a>
+    |
+    <a href="https://last.fm/user/unwizz">lastfm</a>    
 </p>
-
 <details>
-  <summary>Stats</summary>
+  <summary>stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=eslit&theme=dark" alt="fax">
 </details>
 
 <details>
-  <summary>Languages</summary>
+  <summary>languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslit&theme=dark" alt="fax">
+</details>
+
+<details>
+    <summary>trophies</summary>
+    <img src="https://github-profile-trophy.vercel.app/?username=eslit&theme=dark&margin-w=15&margin-h=15&column=7" alt="fax">
 </details>
