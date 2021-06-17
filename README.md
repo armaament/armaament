@@ -20,5 +20,5 @@
 
 <details>
     <summary>trophies</summary>
-    <img src="https://github-profile-trophy.vercel.app/?username=eslit&theme=dark&margin-w=15&margin-h=15&column=7" alt="fax">
+    <img src="https://github-profile-trophy.vercel.app/?username=eslit&theme=oldie&margin-w=15&margin-h=15&column=7" alt="fax">
 </details>
