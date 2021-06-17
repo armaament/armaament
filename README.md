@@ -1,7 +1,9 @@
 
 ### 👋
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=eslit&color=lightgrey" alt="fax" width="" height="">
+    <img src="https://komarev.com/ghpvc/?username=eslit&color=black" alt="fax" width="" height="">
+</p>
+<p align="center">
     <a href="https://discord.com/users/843665233084022794">discord</a>
     |
     <a href="https://last.fm/user/unwizz">lastfm</a>    
