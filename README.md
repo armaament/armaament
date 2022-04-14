@@ -15,7 +15,7 @@
 
 <details>
   <summary>languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslit&theme=dracula" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslit&theme=red" alt="fax">
 </details>
 
 <details>
