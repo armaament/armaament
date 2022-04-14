@@ -1,7 +1,7 @@
 
 ### 👋
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=eslit&color=grey" alt="fax" width="" height="">
+    <img src="https://komarev.com/ghpvc/?username=eslit&color=red" alt="fax" width="" height="">
 </p>
 <p align="center">
     <a href="https://discord.com/users/843665233084022794">discord</a>
@@ -10,12 +10,12 @@
 </p>
 <details>
   <summary>stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=eslit&theme=dark" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api?username=eslit&theme=dracula" alt="fax">
 </details>
 
 <details>
   <summary>languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslit&theme=dark" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslit&theme=dracula" alt="fax">
 </details>
 
 <details>
