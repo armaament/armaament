@@ -10,15 +10,15 @@
 </p>
 <details>
   <summary>stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=eslit&theme=dracula" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api?username=bwckslwsh&theme=dracula" alt="fax">
 </details>
 
 <details>
   <summary>languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslit&theme=dracula" alt="fax">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwckslwsh&theme=dracula" alt="fax">
 </details>
 
 <details>
     <summary>trophies</summary>
-    <img src="https://github-profile-trophy.vercel.app/?username=eslit&theme=oldie&margin-w=15&margin-h=15&column=7" alt="fax">
+    <img src="https://github-profile-trophy.vercel.app/?username=bwckslwsh&theme=oldie&margin-w=15&margin-h=15&column=7" alt="fax">
 </details>
